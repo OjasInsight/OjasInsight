@@ -7,7 +7,9 @@ Inspired by pioneers like **Alan Turing** and **George Boole**, I believe that u
 🎓 Computer Engineering Student  
 📚 Self-learning Python, Data Science, Machine Learning, Deep Learning, NLP  
 🛠️ Currently building beginner-friendly projects using real-world datasets  
-📬 Reach me: [ojas.insight@gmail.com]
+📬 Reach me: 
+    https://www.linkedin.com/in/ojas-r-026288377/
+    [ojas.insight@gmail.com]
 
 ---
 
